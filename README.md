@@ -30,7 +30,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 #####Software Engineering
 * [What We Actually Know About Software Development, and Why We Believe It’s True](https://vimeo.com/9270320) by **Greg Wilson** [1:06:37]
 * [Engineering You](https://www.infoq.com/presentations/engineer-practices-techniques) by **Martin Thompson** [45:12]
-* [Mechanical Sympathy](https://www.infoq.com/presentations/mechanical-sympathy) by ** Martin Thompson** [49:34]
+* [Mechanical Sympathy](https://www.infoq.com/presentations/mechanical-sympathy) by **Martin Thompson** [49:34]
 
 #####Object-Oriented Programming
 
