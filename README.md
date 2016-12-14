@@ -27,6 +27,11 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by **Kevlin Henney** [01:02:52]
 * [5 WTFs in 6 LOCs](https://vimeo.com/181409251) by **Dorothy Wingrove** [05:11]
 
+#####Software Engineering
+* [What We Actually Know About Software Development, and Why We Believe It’s True](https://vimeo.com/9270320) by **Greg Wilson** [1:06:37]
+* [Engineering You](https://www.infoq.com/presentations/engineer-practices-techniques) by **Martin Thompson** [45:12]
+* [Mechanical Sympathy](https://www.infoq.com/presentations/mechanical-sympathy) by ** Martin Thompson** [49:34]
+
 #####Object-Oriented Programming
 
 * [Functional is cool, but do you know OO](https://www.youtube.com/watch?v=oiFYPAel-KY) by **Sandro Mancuso** [54:17]
@@ -68,6 +73,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Evidence-Oriented Programming](https://www.youtube.com/watch?v=uEFrE6cgVNY) by **Andreas Stefik** [41:42]
 * [The Programming Language Wars](https://www.youtube.com/watch?v=mDZ-QSLQIB8) by **Andreas Stefik** [50:28]
 * [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** [40:35]
+* [Badass: Making Users Awesome](https://vimeo.com/131407754) by **Kathy Sierra** [47:58]
 
 #####Web Development
 
