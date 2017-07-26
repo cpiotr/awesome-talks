@@ -5,7 +5,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 (In no particular order)
 
-#####Software Development
+##### Software Development
 * [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay** [1:04:34]
 * [The Future of Programming](https://vimeo.com/71278954) by **Bret Victor** [32:55]
 * [Inventing on Principle](https://vimeo.com/36579366) by **Bret Victor** [54:20]
@@ -26,18 +26,18 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by **Kevlin Henney** [01:02:52]
 * [5 WTFs in 6 LOCs](https://vimeo.com/181409251) by **Dorothy Wingrove** [05:11]
 
-#####Software Engineering
+##### Software Engineering
 * [Real Software Engineering](https://www.infoq.com/presentations/Software-Engineering) by **Glenn Vanderburg** [53:59]
 * [What We Actually Know About Software Development, and Why We Believe It’s True](https://vimeo.com/9270320) by **Greg Wilson** [1:06:37]
 * [Engineering You](https://www.infoq.com/presentations/engineer-practices-techniques) by **Martin Thompson** [45:12]
 * [Mechanical Sympathy](https://www.infoq.com/presentations/mechanical-sympathy) by **Martin Thompson** [49:34]
 
-#####Object-Oriented Programming
+##### Object-Oriented Programming
 
 * [Functional is cool, but do you know OO](https://www.youtube.com/watch?v=oiFYPAel-KY) by **Sandro Mancuso** [54:17]
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
 
-#####Functional Programming
+##### Functional Programming
 
 * [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) by **Jessica Kerr** [51:13]
 * [Adventures in Functional Programming](https://vimeo.com/45140590) by **Jim Weirich** [50:34]
@@ -53,7 +53,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Category Theory for the Working Hacker](https://www.infoq.com/presentations/category-theory-propositions-principle) by **Philip Wadler** [42:17]
 * [Types are like the Weather, Type Systems are like Weathermen](https://www.youtube.com/watch?v=XTl7Jn_kmio) by **Matthias Felleisen** [1:15:18]
 
-#####Software Design
+##### Software Design
 
 * [Architecture the Lost Years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) by **Robert C. Martin** [1:06:39]
 * [DDD: putting the model to work](http://www.infoq.com/presentations/model-to-work-evans) by **Eric Evans** [58:48]
@@ -75,7 +75,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** [40:35]
 * [Badass: Making Users Awesome](https://vimeo.com/131407754) by **Kathy Sierra** [47:58]
 
-#####Web Development
+##### Web Development
 
 * [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** [10:14:37]
 * [Go To There and Back Again](http://vimeo.com/78893726) by **Douglas Crockford** [49:06]
@@ -93,7 +93,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Om Next](https://www.youtube.com/watch?v=ByNs9TG30E8) by **David Nolen** [46:17]
 * [ClojureScript for Skeptics ](https://www.youtube.com/watch?v=gsffg5xxFQI) by **Derek Slager** [41:08]
 
-#####Test-Driven Development
+##### Test-Driven Development
 
 * [TDD, where did it all go wrong](http://vimeo.com/68375232) by **Ian Cooper** [1:00:37]
 * [Holistic testing](http://vimeo.com/68390508) by **Jimmy Bogard** [1:00:33]
@@ -102,7 +102,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) by **Robert C. Martin** [53:43]
 * [TDD in Tatters](https://vimeo.com/97537026) by **Scott Bellware** [01:07:53]
 
-#####Methodologies
+##### Methodologies
 
 * [The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) by **Robert C. Martin** [45:41]
 * [Demanding Professionalism in Software Development](https://www.youtube.com/watch?v=p0O1VVqRSK0) by **Robert C. Martin** [45:03]
@@ -113,15 +113,16 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY) by **Alistair Cockburn** [53:03]
 * [Implementing Programmer Anarchy](https://vimeo.com/79866978) by **Fred George** [54:55]
 
-#####Computer History
+##### Computer History
 * [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** [46:00]
 * [Reflection on Window Systems: A Personal Study of Software Engineering](http://epresence.kmdi.utoronto.ca/1/watch/630.aspx) by **Rob Pike** [43:33]
 * [The Charming Genius of the Apollo Guidance Computer](https://www.youtube.com/watch?v=xY45YE7ggng) by **Brian Troutwine** [48:36]
 
-#####Databases
+##### Databases
 * [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey** [01:06:23]
 
-#####Cognitive Development
+##### Cognitive Development
+* [Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM) by **Kathy Sierra** [23:03]
 * [A Lecture on Creativity](https://vimeo.com/183363832) by **John Cleese** [36:39]
 * [The Meaning of Life](https://www.youtube.com/watch?v=zzcCWEb-tyk) by **Derek Sivers** [18:54]
 * [Becoming an Outlier: Career Reboot for the Developer Mind](https://vimeo.com/97415346) by **Cory House** [59:12]
