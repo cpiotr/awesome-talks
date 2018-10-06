@@ -170,3 +170,10 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+## Mine
+* [Real Software Engineering](https://www.infoq.com/presentations/Software-Engineering) by **Glenn Vanderburg** [53:59]
+* [What We Actually Know About Software Development, and Why We Believe It’s True](https://vimeo.com/9270320) by **Greg Wilson** [1:06:37]
+* [Engineering You](https://www.infoq.com/presentations/engineer-practices-techniques) by **Martin Thompson** [45:12]
+* [Mechanical Sympathy](https://www.infoq.com/presentations/mechanical-sympathy) by **Martin Thompson** [49:34]
+* [Badass: Making Users Awesome](https://vimeo.com/131407754) by **Kathy Sierra** [47:58]
