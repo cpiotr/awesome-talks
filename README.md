@@ -177,3 +177,4 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Engineering You](https://www.infoq.com/presentations/engineer-practices-techniques) by **Martin Thompson** [45:12]
 * [Mechanical Sympathy](https://www.infoq.com/presentations/mechanical-sympathy) by **Martin Thompson** [49:34]
 * [Badass: Making Users Awesome](https://vimeo.com/131407754) by **Kathy Sierra** [47:58]
+* [It's people, stupid!](https://www.infoq.com/presentations/human-fail-technology) by **Andy Walker** [41:08]
