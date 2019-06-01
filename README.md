@@ -181,3 +181,4 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Mechanical Sympathy](https://www.infoq.com/presentations/mechanical-sympathy) by **Martin Thompson** [49:34]
 * [Badass: Making Users Awesome](https://vimeo.com/131407754) by **Kathy Sierra** [47:58]
 * [It's people, stupid!](https://www.infoq.com/presentations/human-fail-technology) by **Andy Walker** [41:08]
+* [Novel Algos and Optimizations in JCTools Concurrent Queues](https://www.infoq.com/presentations/jctools-algorithms-optimization) by **Nitsan Wakart** [50:34]
